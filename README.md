@@ -16,4 +16,6 @@
 
 ### myframe-web
 
-📸 myframe(가명) 프로젝트 프로토타입 :web 버전
+Myframe prototype - web version
+
+> [Myframe 배포 페이지](https://myframe-web.vercel.app/)
