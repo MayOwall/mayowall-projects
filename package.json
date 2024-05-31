@@ -4,7 +4,7 @@
   "description": "tiny projects by mayowall",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "myframe-web": "pnpm -F myframe-web"
   },
   "keywords": [],
   "author": "",
